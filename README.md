@@ -54,23 +54,23 @@ in this step we need to get answers for some questions from data like examples
 
 # The Results
 
-after build the model we already get this results
-Ridge Regression Prices :
-R2 Score : 0.0756
-Mean Absolute Error: 44.2448
-Root Mean Square Error: 57.6469
-RandomForestRegressor Prices :
-R2 Score : -0.0917
-Mean Absolute Error: 46.7657
-Root Mean Square Error: 62.6451
-MLPRegressor Prices :
-R2 Score : 0.0987
-Mean Absolute Error: 43.0459
-Root Mean Square Error: 56.9197
-Linear regression Prices :
-R2 Score : 0.0756
-Mean Absolute Error: 44.2448
-Root Mean Square Error: 57.6469
+- after build the model we already get this results
+- Ridge Regression Prices :
+- R2 Score : 0.0756
+- Mean Absolute Error: 44.2448
+- Root Mean Square Error: 57.6469
+- RandomForestRegressor Prices :
+- R2 Score : -0.0917
+- Mean Absolute Error: 46.7657
+- Root Mean Square Error: 62.6451
+- MLPRegressor Prices :
+- R2 Score : 0.0987
+- Mean Absolute Error: 43.0459
+- Root Mean Square Error: 56.9197
+- Linear regression Prices :
+- R2 Score : 0.0756
+- Mean Absolute Error: 44.2448
+- Root Mean Square Error: 57.6469
 
 
 - for download this data you can visit the source from kaggle.com 
